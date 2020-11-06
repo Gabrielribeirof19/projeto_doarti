@@ -84,6 +84,4 @@ class _RegistroPageState extends State<RegistroPage> {
       },
     );
   }
-/* > (where Registro is defined in C:\Users\NAJA INFORMATICA\Desktop\Projeto_flutter\firebase\bestbrownie\lib\models\pedido_brownie.dart)'
- can't be assigned to the parameter type 'Stream<List<Registro>> (where Registro is defined in C:\Users\NAJA INFORMATICA\Desktop\Projeto_flutter\firebase\bestbrownie\lib\registro.dart)'.da */
 }
